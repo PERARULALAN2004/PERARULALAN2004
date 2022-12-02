@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PERARULALAN V
-- 👀 I’m interested in programming
+- 👀 I’m interested in python programming
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
